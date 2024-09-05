@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+# Github Profile Finder
+
+A React application that allows you to search and display users' GitHub profiles using the GitHub API.
+
+## Features
+
+- Search GitHub profiles by username.
+- View profile information, including:
+- Profile picture
+- Number of public repositories
+- Number of followers
+- Number of users followed
+- Join date
+- Simple and responsive user interface.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
